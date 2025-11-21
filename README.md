@@ -9,6 +9,12 @@ This repository contains a pure MATLAB implementation of the lid-driven cavity p
 
 ## lid driven cavity in OpenFOAM
 
+
+
+https://github.com/user-attachments/assets/d97be614-d133-4ae0-b68c-6099e65cf56a
+
+
+
 https://hub.docker.com/r/openfoam/openfoam11-paraview510
 
 ```
@@ -30,5 +36,3 @@ foamRun
 ```
 foamToVTK
 ```
-
-![alt text](image.png)
